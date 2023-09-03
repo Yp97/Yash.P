@@ -10,3 +10,10 @@ Here's a list of things I currently keep myself busy with:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Jupyter_Notebook-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a)
+
+## Connect with me <img src="wave.gif" width="30px">:
+
+
+[<img align="left" alt="Yash Panchal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Yash Panchal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Vaibhav_Panchal | Tableau" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/tableau.svg" />][Tableau]
