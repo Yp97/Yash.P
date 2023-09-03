@@ -20,6 +20,7 @@ Here's a list of things I currently keep myself busy with:
 [instagram]:https://www.instagram.com/yash.panchal09/
 [linkedin]:https://www.linkedin.com/in/panchal-yash/
 
+<br />
 
 ## GitHub Stats
 
