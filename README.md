@@ -20,7 +20,7 @@ Here's a list of things I currently keep myself busy with:
 [instagram]:https://www.instagram.com/yash.panchal09/
 [linkedin]:https://www.linkedin.com/in/panchal-yash/
 
-## &#x1f4c8; GitHub Stats
+## GitHub Stats
 
 <a href="https://github.com/Yp97/Yash.P">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yp97&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
