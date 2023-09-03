@@ -15,5 +15,7 @@ Here's a list of things I currently keep myself busy with:
 
 
 [<img align="left" alt="Yash_Panchal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="yash.panchal09 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Yash_Panchal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[instagram]:https://www.instagram.com/yash.panchal09/
+[linkedin]:www.linkedin.com/in/panchal-yash
